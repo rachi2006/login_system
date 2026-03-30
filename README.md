@@ -10,9 +10,10 @@
 ### 🔹 Flask Login System (MongoDB)
 
 <p align="center">
-  <img src="https://github.com/rachi2006/login_system/blob/main/demo.gif" width="600"/>
+  <a href="https://raw.githubusercontent.com/username/repo/main/demo.mp4">
+    <img src="https://via.placeholder.com/600x300.png?text=Watch+Demo+Video" width="600"/>
+  </a>
 </p>
-
 🔐 Authentication system with:
 
 * User registration & login
