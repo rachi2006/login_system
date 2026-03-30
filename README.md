@@ -10,7 +10,7 @@
 ### 🔹 Flask Login System (MongoDB)
 
 <p align="center">
-  <img src="https://github.com/rachi2006/login_system/blob/main/demo.gft.mp4" width="600"/>
+  <img src="https://github.com/rachi2006/login_system/blob/main/demo.gif" width="600"/>
 </p>
 
 🔐 Authentication system with:
